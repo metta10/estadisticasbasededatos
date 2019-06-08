@@ -1,0 +1,2 @@
+# estadisticasbasededatos
+todos los jugadores
